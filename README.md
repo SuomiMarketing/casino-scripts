@@ -22,7 +22,7 @@ Welcome to the official GitHub repository for [Casino Scripts](https://buycasino
 
 Have questions or need further assistance? Feel free to reach out to us through any of the following channels:
 
-- **Email**: [support@casinoscripts.shop](mailto:support@buycasinoscripts.com)
+- **Email**: [support@buycasinoscripts.com](mailto:support@buycasinoscripts.com)
 - **Telegram**: [t.me/athenian](https://t.me/athenian)
 - **Discord**: [discord.gg/cryptocasino](https://discord.gg/cryptocasino)
 
