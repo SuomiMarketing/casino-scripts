@@ -1,10 +1,10 @@
 
 # CasinoScripts.Shop
-![Casino Scripts logo](https://casinoscripts.shop/wp-content/uploads/2024/03/Frame-588-1024x127.png)
+![casino scripts source code](https://casinoscripts.shop/wp-content/uploads/2024/03/Frame-588-1024x127.png)
 
 Welcome to the official GitHub repository for [Casino Scripts](https://buycasinoscripts.com/) - your one-stop shop for high-quality casino software solutions. We specialize in providing a variety of casino scripts, including premade source codes, slot source codes, and custom development services.
 
-![image 492](https://github.com/user-attachments/assets/7f772abc-dcf3-46a7-a467-74b7126404ab)
+![Crypto casino source code](https://github.com/user-attachments/assets/7f772abc-dcf3-46a7-a467-74b7126404ab)
 
 ## What We Offer
 
