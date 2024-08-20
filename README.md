@@ -1,8 +1,7 @@
 
 # CasinoScripts.Shop
-![casino scripts source code](https://casinoscripts.shop/wp-content/uploads/2024/03/Frame-588-1024x127.png)
 
-Welcome to the official GitHub repository for [Casino Scripts](https://buycasinoscripts.com/) - your one-stop shop for high-quality casino software solutions. We specialize in providing a variety of casino scripts, including premade source codes, slot source codes, and custom development services.
+Welcome to the official GitHub repository for [Casino Scripts](https://buycasinoscript.com/) - your one-stop shop for high-quality casino software solutions. We specialize in providing a variety of casino scripts, including premade source codes, slot source codes, and custom development services.
 
 ![Crypto casino source code](https://github.com/user-attachments/assets/7f772abc-dcf3-46a7-a467-74b7126404ab)
 
@@ -22,12 +21,12 @@ Welcome to the official GitHub repository for [Casino Scripts](https://buycasino
 
 Have questions or need further assistance? Feel free to reach out to us through any of the following channels:
 
-- **Email**: [support@buycasinoscripts.com](mailto:support@buycasinoscripts.com)
+- **Email**: [support@buycasinoscript.com](mailto:support@buycasinoscript.com)
 - **Telegram**: [t.me/athenian](https://t.me/athenian)
 - **Discord**: [discord.gg/cryptocasino](https://discord.gg/cryptocasino)
 
 ## Visit Our Webshop
 
-Explore our full range of products and services at [Casino Scripts](https://buycasinoscripts.com/) .
+Explore our full range of products and services at [Casino Scripts](https://buycasinoscript.com/) .
 
-Thank you for your interest in CasinoScripts.Shop. We look forward to helping you build a successful online casino!
+Thank you for your interest in buycasinoscript.com. We look forward to helping you build a successful online casino!
