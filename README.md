@@ -1,5 +1,5 @@
 
-# CasinoScripts.Shop
+# Buycasinoscripts.com
 
 Welcome to the official GitHub repository for [Casino Scripts](https://buycasinoscripts.com/) - your one-stop shop for high-quality casino software solutions. We specialize in providing a variety of casino scripts, including premade source codes, slot source codes, and custom development services.
 
